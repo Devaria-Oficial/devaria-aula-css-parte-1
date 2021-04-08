@@ -1,0 +1,11 @@
+/* Estilos globais do site */
+html {
+    height: 100px;
+}
+
+body {
+    background-color: #1c0c3f;
+    font-family: sans-serif;
+    color: #fff;
+    margin: 0;
+}
